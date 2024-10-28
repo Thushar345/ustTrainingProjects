@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|c:\\users\\administrator\\source\\repos\\16-10-2024\\bootstrapmvctest\\bootstrapmvctest\\wwwroot\\css\\mycustomstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{953ED7B5-8303-425B-8595-0E7C59410740}|BootstrapMVCTest\\BootstrapMVCTest.csproj|solutionrelative:bootstrapmvctest\\wwwroot\\css\\mycustomstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:32:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:32:22.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:45:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\libman.json",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\libman.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\libman.json",
+              "RelativeToolTip": "BootstrapMVCTest\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T09:31:52.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Models\\Student.cs",
+              "RelativeToolTip": "BootstrapMVCTest\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:49:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:45:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:32:21.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:14:57.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:32:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BootstrapMVCTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T09:32:26.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BootstrapMVCTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:03:19.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyCustomStyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\wwwroot\\css\\MyCustomStyleSheet.css",
+              "RelativeDocumentMoniker": "BootstrapMVCTest\\wwwroot\\css\\MyCustomStyleSheet.css",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\16-10-2024\\BootstrapMVCTest\\BootstrapMVCTest\\wwwroot\\css\\MyCustomStyleSheet.css",
+              "RelativeToolTip": "BootstrapMVCTest\\wwwroot\\css\\MyCustomStyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-16T09:37:53.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

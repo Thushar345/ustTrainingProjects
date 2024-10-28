@@ -1,0 +1,6 @@
+@DtoTest_HostAddress = http://localhost:5119
+
+GET {{DtoTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

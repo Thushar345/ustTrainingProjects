@@ -1,0 +1,10 @@
+﻿
+@using Microsoft.AspNetCore.Mvc.Localization
+
+@inject IViewLocalizer Localizer
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>@Localizer["This Text language will change"]</h1>

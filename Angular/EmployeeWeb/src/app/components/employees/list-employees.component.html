@@ -1,0 +1,26 @@
+<h3>
+    Employees
+</h3>
+
+<div class="containter">
+    <div class="row">
+        @for (employee of employees; track $index) {
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="{{employee.photoPath}}" alt="john">
+                <div class="card-body">
+                <h5 class="card-title">{{employee.name}}</h5>
+                <p class="card-text">
+                    
+                    <strong>Gender: </strong>{{employee.gender}}<br>
+                    <strong>DOB: </strong>{{employee.dateOfBirth | date}}<br>
+                    <strong>Department: </strong>{{employee.department}}<br>
+                    <strong>Phone: </strong>{{employee.phoneNumber}}<br>
+
+                </p>
+                <a href="#" class="btn btn-primary">Contact Me</a>
+                </div>
+            </div>
+        }
+    </div>
+    
+</div>

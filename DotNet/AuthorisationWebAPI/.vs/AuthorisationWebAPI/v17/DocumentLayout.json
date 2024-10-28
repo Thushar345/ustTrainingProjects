@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\authorisationwebapi\\authorisationwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|solutionrelative:authorisationwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\authorisationwebapi\\authorisationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|solutionrelative:authorisationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\authorisationwebapi\\authorisationwebapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|solutionrelative:authorisationwebapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\authorisationwebapi\\authorisationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|solutionrelative:authorisationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\authorisationwebapi\\authorisationwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|solutionrelative:authorisationwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\authorisationwebapi\\authorisationwebapi\\authorisationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B2BD7CC-C708-4917-B33F-3415A9E4C46D}|AuthorisationWebAPI\\AuthorisationWebAPI.csproj|solutionrelative:authorisationwebapi\\authorisationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorisationWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Program.cs",
+              "RelativeToolTip": "AuthorisationWebAPI\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:56:54.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthorisationWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthorisationWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:53:09.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "AuthorisationWebAPI\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "AuthorisationWebAPI\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:51:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorisationWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\AuthorisationWebAPI.csproj",
+              "RelativeDocumentMoniker": "AuthorisationWebAPI\\AuthorisationWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\AuthorisationWebAPI.csproj",
+              "RelativeToolTip": "AuthorisationWebAPI\\AuthorisationWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T10:50:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthorisationWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\appsettings.json",
+              "RelativeToolTip": "AuthorisationWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T10:49:43.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "AuthorisationWebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\AuthorisationWebAPI\\AuthorisationWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "AuthorisationWebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:02:03.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

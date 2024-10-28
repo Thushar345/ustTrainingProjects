@@ -1,0 +1,12 @@
+.container{
+    width: 850px;
+}
+img {
+    width: 40px; /* Change this to your desired width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.responsive-gif {
+    width: 750px; /* Change this to your desired width */
+    height: auto; /* Maintain aspect ratio */
+}

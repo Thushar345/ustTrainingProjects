@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\ourherowebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\ourherowebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Migrations\\20241014065326_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OurHeroWebAPI\\Migrations\\20241014065326_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\ourherowebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\ourherowebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|c:\\users\\administrator\\source\\repos\\14-10-2024\\ourherowebapi\\ourherowebapi\\ourherowebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBB4BB2D-7408-4EBA-95B4-EE54C257B54A}|OurHeroWebAPI\\OurHeroWebAPI.csproj|solutionrelative:ourherowebapi\\ourherowebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OurHeroWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T07:11:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Services\\OurHeroService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Services\\OurHeroService.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Services\\OurHeroService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:18:11.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Controllers\\OurHeroController.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Controllers\\OurHeroController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Controllers\\OurHeroController.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Controllers\\OurHeroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:19:39.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Services\\IOurHeroService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Services\\IOurHeroService.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Services\\IOurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:18:20.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\appsettings.json",
+              "RelativeToolTip": "OurHeroWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T05:08:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Program.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:04:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddUpdateOurHero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Model\\AddUpdateOurHero.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Model\\AddUpdateOurHero.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Model\\AddUpdateOurHero.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Model\\AddUpdateOurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:25:16.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OurHero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Model\\OurHero.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Model\\OurHero.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Model\\OurHero.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Model\\OurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:07:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OurHeroWebAPI",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "RelativeToolTip": "OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T05:07:16.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OurHeroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Entity\\OurHeroDbContext.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Entity\\OurHeroDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Entity\\OurHeroDbContext.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Entity\\OurHeroDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:58:49.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241014065326_first-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Migrations\\20241014065326_first-migration.cs",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\Migrations\\20241014065326_first-migration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\Migrations\\20241014065326_first-migration.cs",
+              "RelativeToolTip": "OurHeroWebAPI\\Migrations\\20241014065326_first-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:53:26.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OurHeroWebAPI",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "RelativeToolTip": "OurHeroWebAPI\\OurHeroWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T05:04:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OurHeroWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\OurHeroWebAPI.http",
+              "RelativeDocumentMoniker": "OurHeroWebAPI\\OurHeroWebAPI.http",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\14-10-2024\\OurHeroWebAPI\\OurHeroWebAPI\\OurHeroWebAPI.http",
+              "RelativeToolTip": "OurHeroWebAPI\\OurHeroWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-14T05:04:33.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
